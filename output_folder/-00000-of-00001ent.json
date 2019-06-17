@@ -1,0 +1,2 @@
+{"entities":[{"entity_text":"Aspirin","label":"DRUG"},{"entity_text":"headaches","label":"DISEASE"}],"text":"Aspirin treats headaches."}
+{"entities":[{"entity_text":"Aspirin","label":"DRUG"},{"entity_text":"heart attacks","label":"DISEASE"}],"text":"Aspirin can help prevent heart attacks."}
